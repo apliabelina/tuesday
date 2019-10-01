@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is BA5D-66ED
+
+ Directory of C:\Users\ASUS\tuesday
+
+01/10/2019  15:26    <DIR>          .
+01/10/2019  15:26    <DIR>          ..
+01/10/2019  15:26                 0 file1.txt
+01/10/2019  15:25                 9 README.md
+               2 File(s)              9 bytes
+               2 Dir(s)  413,625,761,792 bytes free
